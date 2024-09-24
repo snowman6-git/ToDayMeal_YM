@@ -1,3 +1,8 @@
 # ToDayMeal_YM
-requirements.txt is for linux pip# ToDayMeal_YM
-# ToDayMeal_YM
+교내 학식을 여러 앱에서 사용해보자!
+
+교내 주간 학식을 불러올수있는 간단한 코드입니다.
+
+시스템상 교내 학생 아이디와 비밀번호가 있어야 DB쪽으로 호출이 가능하기 때문에 재학생만 가능합니다
+
+모바일 앱에 있는 기능을 뜯어 단순히 리퀘스트로 구현하였습니다.
